@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2021"
 authors =["Peter Kehl <peter.kehl@gmail.com>"]
 description = "Reserved (to avoid name confusion with glibr, a potential replacement of glibc on Linux)"
+license = "MIT OR Apache-2.0"
 repository = "https://github.com/peter-kehl/glibr"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
