@@ -3,7 +3,7 @@ name = "glibr"
 version = "0.1.0"
 edition = "2021"
 authors =["Peter Kehl <peter.kehl@gmail.com>"]
-description = "Reserved (to avoid name confusion with glibr, a potential replacement of glibc on Linux)"
+description = "Reserved, to avoid name confusion with https://github.com/glib-rs/glib_rs, a potential replacement of (parts of) glibc on Linux"
 license = "MIT OR Apache-2.0"
 repository = "https://github.com/peter-kehl/glibr"
 
